@@ -5,7 +5,7 @@
 
 			Component Based Learning FOR SOFTWARE ENGINEERING
 			
-			VIT University CHENNAI CAMPUS.
+			VIT University .
 
 			CPU BENCHMARK				
 /*****************************************************************************************/
